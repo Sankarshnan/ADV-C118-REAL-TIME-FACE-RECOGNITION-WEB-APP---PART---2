@@ -1,0 +1,43 @@
+.heading
+{
+    font-size: 30px;
+ 
+    width: 100%;
+    margin: 0px;
+    box-shadow: 10px 10px 5px Brown;
+}
+
+.heading_div
+{
+    float: none;
+    background: white;
+    padding: 10px;
+    border-radius: 20px;
+    color: black;
+    box-shadow: 5px 5px 5px brown;
+}
+
+.heading_div2
+{
+    font-size: 18px;
+}
+
+body{
+    background-color: tomato;
+}
+
+.copy_right_footer{
+    background-color: brown;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    line-height: 3;
+    color: chartreuse;
+    text-align: center;
+    font-style: bold;
+}
+
+.result_para_tag{
+    font-size: larger;
+    text-align: center;
+}
